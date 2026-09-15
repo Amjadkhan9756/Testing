@@ -2,7 +2,7 @@ import {describe,expect,it} from "@jest/globals"
 import sum, { multiply } from "../index.js";
 
 
-describe("testing fo rsum function ",()=>{
+describe("testing fo sum function ",()=>{
     it("should be it correct ",()=>{
         const finaleAnwser=sum(1,2);
 
